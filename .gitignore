@@ -1,0 +1,10 @@
+# ignore the files with the following extensions
+.snakemake
+.log
+.temp
+*.swp
+.Rhistory
+.DS_Store
+
+# ignore the following folders
+data/output/
